@@ -1,6 +1,6 @@
 # DE-Task
 
-All task are attached in seprate files from deploymrnt, containerisation, kubertenetess, instance connect etc.
+All task are attached in seprate files from deployment, containerisation, kubertenetess, instance connect etc.
 
 Below images shows the ECR registry images through docker hub, Initialisation of EC2 instance with VPC cloud configuratio and application deployment at 3-tier architecture using vagrant, docker container, git, kubertnetess cluster.
 
