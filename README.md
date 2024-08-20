@@ -5,6 +5,9 @@ All task are attached in seprate files from deploymrnt, containerisation, kubert
 Below images shows the ECR registry images through docker hub, Initialisation of EC2 instance with VPC cloud configuratio and application deployment at 3-tier architecture using vagrant, docker container, git, kubertnetess cluster.
 
 
+![Screenshot 2024-08-20 183724](https://github.com/user-attachments/assets/5bc3628f-2bb1-4455-b0ff-d12e0964b8ff)
+
+
 ![Screenshot 2024-08-20 163743](https://github.com/user-attachments/assets/dcf66e40-bef5-48ab-945c-62d57716b05e)
 
 
@@ -15,3 +18,5 @@ Below images shows the ECR registry images through docker hub, Initialisation of
 
 
 ![Screenshot 2024-08-20 164517](https://github.com/user-attachments/assets/71415e4f-3a15-4756-a675-8bd615cf4888)
+
+
